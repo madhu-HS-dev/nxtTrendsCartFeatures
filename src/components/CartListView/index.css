@@ -1,0 +1,11 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.remove-all {
+  color: #0b69ff;
+  font-family: 'Roboto';
+  align-self: flex-end;
+  cursor: pointer;
+  outline: none;
+}
